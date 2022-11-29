@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321573249880",
+    "project_id": "guitartuner-70895",
+    "storage_bucket": "guitartuner-70895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321573249880:android:89977bb051be41ba123b2d",
+        "android_client_info": {
+          "package_name": "com.guitartuner.tuningfeedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321573249880-tpkjl1va15b1snpn9ela660uosb47bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKYd2gcuETKPQWZDDqVr1uIT8mcUS0hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321573249880-tpkjl1va15b1snpn9ela660uosb47bdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
